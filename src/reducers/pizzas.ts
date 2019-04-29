@@ -8,7 +8,7 @@ const initialState = [
   {
     id: 2,
     name: "Pizza Napoletana",
-    description: "The mafia knows whats best for you",
+    description: 'Like Margarita, but without the basil.',
     ingredients: ["tomato", "mozarella"]
   },
   {
